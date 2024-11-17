@@ -4,7 +4,7 @@
 int main()
 {
     int num,i;
-    float sum=0.0,average;
+
     printf("Enter the number of students:");
     scanf("%d",&num);
     int marks[num];
